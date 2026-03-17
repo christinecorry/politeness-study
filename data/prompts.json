@@ -1,0 +1,62 @@
+[
+  {
+    "id": "factual_01",
+    "domain": "factual",
+    "blunt": "Explain how black holes form.",
+    "polite": "Could you please explain how black holes form? Thank you!"
+  },
+  {
+    "id": "factual_02",
+    "domain": "factual",
+    "blunt": "What causes inflation.",
+    "polite": "Would you mind explaining what causes inflation? I'd really appreciate it."
+  },
+  {
+    "id": "factual_03",
+    "domain": "factual",
+    "blunt": "How does mRNA vaccine technology work.",
+    "polite": "Could you kindly explain how mRNA vaccine technology works? Thank you so much!"
+  },
+  {
+    "id": "technical_01",
+    "domain": "technical",
+    "blunt": "Explain what a REST API is.",
+    "polite": "Could you please explain what a REST API is? I'd be grateful for your help!"
+  },
+  {
+    "id": "technical_02",
+    "domain": "technical",
+    "blunt": "What is the difference between supervised and unsupervised learning.",
+    "polite": "Would you be so kind as to explain the difference between supervised and unsupervised learning? Thank you!"
+  },
+  {
+    "id": "technical_03",
+    "domain": "technical",
+    "blunt": "Explain what recursion is in programming.",
+    "polite": "Could you please explain what recursion is in programming? I really appreciate your time!"
+  },
+  {
+    "id": "creative_01",
+    "domain": "creative",
+    "blunt": "Write a short poem about autumn.",
+    "polite": "Would you please write a short poem about autumn? That would be wonderful, thank you!"
+  },
+  {
+    "id": "creative_02",
+    "domain": "creative",
+    "blunt": "Suggest a plot for a short story about a lighthouse keeper.",
+    "polite": "Could you kindly suggest a plot for a short story about a lighthouse keeper? Thank you so much!"
+  },
+  {
+    "id": "opinion_01",
+    "domain": "opinion",
+    "blunt": "What are the pros and cons of remote work.",
+    "polite": "Could you please share the pros and cons of remote work? I'd really value your perspective, thank you!"
+  },
+  {
+    "id": "opinion_02",
+    "domain": "opinion",
+    "blunt": "What are the main arguments for and against social media regulation.",
+    "polite": "Would you kindly explain the main arguments for and against social media regulation? Thank you for your help!"
+  }
+]
